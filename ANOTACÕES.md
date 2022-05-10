@@ -1,6 +1,15 @@
 Site para criar README.md
 https://readme.so/pt
 
+Documentação de comandos git:
+https://comandosgit.github.io/
+
+Lista de comandos principais:
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
+Pro Git Book:
+https://git-scm.com/book/pt-br/v2
+
 Para incluir arquivos ainda não rastreados, ou seja, não adicionados nem commitados usamos o comando:
 git stash --include-untracked
 
